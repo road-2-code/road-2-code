@@ -1,0 +1,7 @@
+carla
+output
+data
+wandb
+checkpoints
+**/__pycache__/*
+OneFormer/

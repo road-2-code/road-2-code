@@ -1,0 +1,12 @@
+torch==2.3.1+cu121
+torchaudio==2.3.1+cu121
+torchvision==0.18.1+cu121
+wandb==0.12.20
+pyyaml==6.0.2
+tqdm==4.66.5
+peft==0.13.2
+datasets==3.0.2
+trl==0.12.1
+huggingface==0.0.1
+waymo-open-dataset-tf-2-12-0==1.6.4
+tensorflow==2.12.0
